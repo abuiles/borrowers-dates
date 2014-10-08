@@ -1,0 +1,21 @@
+{
+  "name": "borrowers-dates",
+  "main": "Ember.js book https://leanpub.com/ember-cli-101.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/abuiles/borrowers-dates",
+  "authors": [
+    "Adolfo Builes <builes.adolfo@gmail.com>"
+  ],
+  "description": "Dummy date helpers library to explain named-amd modules in the",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
